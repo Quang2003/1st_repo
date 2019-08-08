@@ -34,5 +34,5 @@
 
 # year = int(input('enter your age:'))
 # print(2019 - year)
-c = int(input('enter:'))
-print(c * 1.8)+ 32))
+#  c = int(input('enter:'))
+#  print((c * 1.8)+ 32)
